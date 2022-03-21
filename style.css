@@ -3,3 +3,22 @@ body {
   height: 100%;
   margin: 0;
 }
+
+header {
+  text-align: center;
+}
+
+img {
+  align-items: center;
+}
+
+a {
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: beige;
+}
+
+figcaption {
+  text-align: center;
+  font-size: 10pt;
+}
